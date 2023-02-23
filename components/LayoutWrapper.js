@@ -20,7 +20,7 @@ const LayoutWrapper = ({ children }) => {
                   <Image src="/static/images/scc.png" alt="" width={80} height={80} />
                 </div>
                 {typeof siteMetadata.headerTitle === 'string' ? (
-                  <div className="hidden h-6 text-2xl font-semibold sm:block">
+                  <div className="hidden h-6 text-2xl font-semibold text-purple-600 sm:block">
                     {siteMetadata.headerTitle}
                   </div>
                 ) : (
