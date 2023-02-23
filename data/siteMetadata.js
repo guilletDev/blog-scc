@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
+  title: 'Salta Cybersecurity Blog',
   author: 'Tails Azimuth',
   headerTitle: 'Salta Cybersecurity Blog',
   description: 'Compartimos lo último en tecnología.',
