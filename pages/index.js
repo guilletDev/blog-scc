@@ -25,6 +25,8 @@ export default function Home({ posts }) {
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
             {siteMetadata.description}
           </p>
+          <br />
+          <br />
         </div>
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">
           {!posts.length && 'No posts found.'}
@@ -71,6 +73,7 @@ export default function Home({ posts }) {
                         </Link>
                       </div>
                     </div>
+                    <br />
                   </div>
                 </article>
               </li>
