@@ -2,7 +2,8 @@ const siteMetadata = {
   title: 'Salta Cybersecurity Blog',
   author: 'Tails Azimuth',
   headerTitle: 'Salta Cybersecurity Blog',
-  description: 'Compartimos lo último en tecnología.',
+  description:
+    'Bienvenidos a nuestro blog, un espacio dedicado a explorar las últimas tendencias, innovaciones y desarrollos en el mundo de la tecnología.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog-scc.vercel.app',
