@@ -1,23 +1,23 @@
 const siteMetadata = {
   title: 'Salta Cybersecurity Blog',
-  author: 'Tails Azimuth',
+  author: 'SCC',
   headerTitle: 'Salta Cybersecurity Blog',
   description:
     'Bienvenidos a nuestro blog, un espacio dedicado a explorar las últimas tendencias, innovaciones y desarrollos en el mundo de la tecnología.',
-  language: 'en-us',
+  language: 'en-es',
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog-scc.vercel.app',
   siteRepo: '',
   siteLogo: '/static/images/scc.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/scc.png',
-  email: 'address@yoursite.com',
+  email: '',
   github: 'https://github.com',
   twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/company/salta-cybersecurity-club/',
-  locale: 'en-US',
+  locale: 'en-Es',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
