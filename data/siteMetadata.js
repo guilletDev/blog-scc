@@ -10,7 +10,7 @@ const siteMetadata = {
   siteRepo: '',
   siteLogo: '/static/images/scc.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/scc.png',
   email: 'address@yoursite.com',
   github: 'https://github.com',
   twitter: 'https://twitter.com/Twitter',
