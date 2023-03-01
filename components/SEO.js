@@ -140,6 +140,7 @@ export const BlogSEO = ({
         title={title}
         description={summary}
         ogType="article"
+        ogImage={featuredImages}
         twImage={twImageUrl}
         canonicalUrl={canonicalUrl}
       />
