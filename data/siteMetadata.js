@@ -13,10 +13,11 @@ const siteMetadata = {
   socialBanner: '/static/images/scc.png',
   email: '',
   github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
+  twitter: 'https://twitter.com/saltacyberclub',
+  facebook: 'https://www.instagram.com/saltacybersecurityclub/',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/company/salta-cybersecurity-club/',
+  instagram: 'https://www.instagram.com/saltacybersecurityclub/',
   locale: 'en-Es',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
